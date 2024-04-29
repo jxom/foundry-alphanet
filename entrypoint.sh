@@ -2,7 +2,7 @@
 
 main() {
     local FOUNDRY_COMMAND=""
-    local FOUNDRY_DIRECTORY=""
+    local FOUNDRY_DIRECTORY="/app/foundry"
     local FOUNDRY_SCRIPT=""
     local SOLC_PATH="--use /usr/local/bin/solc"
 
